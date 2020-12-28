@@ -1,0 +1,39 @@
+GET http://localhost:3000/city
+
+GET  [
+    id
+    name_city
+    image_url
+]
+
+
+###################
+
+GET http://localhost:3000/typeApartment
+
+GET[
+    id
+    apartment_name
+    image_url
+]
+
+###############################
+
+GET http://localhost:3000/trai_nghiem
+
+GET[
+    id
+    url_image
+    title_trai_nghiem
+]
+
+#############################
+
+GET http://localhost:3000/detailsApartment/10
+
+GET
+[
+    id
+    url_image
+    id_apartment
+]

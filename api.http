@@ -1,0 +1,50 @@
+GET http://localhost:3000/city
+
+##########
+
+GET http://localhost:3000/typeApartment
+
+##########
+
+GET http://localhost:3000/trai_nghiem
+
+#####################
+GET http://localhost:3000/action_other
+
+#############################
+
+GET http://localhost:3000/footer
+
+#############################
+
+GET http://localhost:3000/about
+
+#############################
+
+GET http://localhost:3000/khach
+
+
+
+#############################
+
+GET http://localhost:3000/community
+
+
+
+#############################
+
+GET http://localhost:3000/support
+
+############################# Details 
+
+GET http://localhost:3000/detailscity/3
+
+############################# Details 
+
+GET http://localhost:3000/detailsApartment/10
+
+
+############################# Details 
+
+GET http://localhost:3000/detailsApartment2/10
+
