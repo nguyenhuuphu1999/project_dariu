@@ -19,4 +19,4 @@ router.get('/',function(req,res){
     });
     // console.log('id ='+req.params.id)
 })
-module.exports = router;
+module.exports = router;heroku addons:create cleardb:ignite
